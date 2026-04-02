@@ -1,0 +1,14 @@
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\bin\Debug\net10.0\lab 2 task 2.exe
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\bin\Debug\net10.0\lab 2 task 2.deps.json
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\bin\Debug\net10.0\lab 2 task 2.runtimeconfig.json
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\bin\Debug\net10.0\lab 2 task 2.dll
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\bin\Debug\net10.0\lab 2 task 2.pdb
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.AssemblyInfoInputs.cache
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.AssemblyInfo.cs
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.csproj.CoreCompileInputs.cache
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.dll
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\refint\lab 2 task 2.dll
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.pdb
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\lab 2 task 2.genruntimeconfig.cache
+C:\Users\Dykusar Illya\source\repos\lab 2 task 2\lab 2 task 2\obj\Debug\net10.0\ref\lab 2 task 2.dll
