@@ -1,0 +1,14 @@
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\bin\Debug\net10.0\lab2 task1.exe
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\bin\Debug\net10.0\lab2 task1.deps.json
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\bin\Debug\net10.0\lab2 task1.runtimeconfig.json
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\bin\Debug\net10.0\lab2 task1.dll
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\bin\Debug\net10.0\lab2 task1.pdb
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.AssemblyInfoInputs.cache
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.AssemblyInfo.cs
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.csproj.CoreCompileInputs.cache
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.dll
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\refint\lab2 task1.dll
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.pdb
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\lab2 task1.genruntimeconfig.cache
+C:\Users\Dykusar Illya\source\repos\lab2 task1\lab2 task1\obj\Debug\net10.0\ref\lab2 task1.dll
